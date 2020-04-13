@@ -1,0 +1,14 @@
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\asp\FirstASP\bin\Debug\netcoreapp2.2\FirstASP.deps.json
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\asp\FirstASP\bin\Debug\netcoreapp2.2\FirstASP.runtimeconfig.json
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\asp\FirstASP\bin\Debug\netcoreapp2.2\FirstASP.runtimeconfig.dev.json
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\asp\FirstASP\bin\Debug\netcoreapp2.2\FirstASP.dll
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\asp\FirstASP\bin\Debug\netcoreapp2.2\FirstASP.pdb
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\asp\FirstASP\obj\Debug\netcoreapp2.2\FirstASP.csprojAssemblyReference.cache
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\asp\FirstASP\obj\Debug\netcoreapp2.2\FirstASP.csproj.CoreCompileInputs.cache
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\asp\FirstASP\obj\Debug\netcoreapp2.2\FirstASP.RazorAssemblyInfo.cache
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\asp\FirstASP\obj\Debug\netcoreapp2.2\FirstASP.RazorAssemblyInfo.cs
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\asp\FirstASP\obj\Debug\netcoreapp2.2\FirstASP.AssemblyInfoInputs.cache
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\asp\FirstASP\obj\Debug\netcoreapp2.2\FirstASP.AssemblyInfo.cs
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\asp\FirstASP\obj\Debug\netcoreapp2.2\FirstASP.RazorTargetAssemblyInfo.cache
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\asp\FirstASP\obj\Debug\netcoreapp2.2\FirstASP.dll
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\asp\FirstASP\obj\Debug\netcoreapp2.2\FirstASP.pdb
