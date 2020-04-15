@@ -2959,6 +2959,22 @@
     "CSharpLanguageVersion": 703
   },
   "RootNamespace": "FirstASP",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\Bill\\Documents\\CodingFiles\\CodingDojo\\csharp\\asp\\FirstASP\\Views\\Portfolio\\Project.cshtml",
+      "TargetPath": "Views\\Portfolio\\Project.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Bill\\Documents\\CodingFiles\\CodingDojo\\csharp\\asp\\FirstASP\\Views\\Portfolio\\Index.cshtml",
+      "TargetPath": "Views\\Portfolio\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Bill\\Documents\\CodingFiles\\CodingDojo\\csharp\\asp\\FirstASP\\Views\\Portfolio\\Contact.cshtml",
+      "TargetPath": "Views\\Portfolio\\Contact.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.2"
 }

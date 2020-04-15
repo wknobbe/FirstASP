@@ -12,3 +12,14 @@ C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\asp\FirstASP\obj\Debug\net
 C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\asp\FirstASP\obj\Debug\netcoreapp2.2\FirstASP.RazorTargetAssemblyInfo.cache
 C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\asp\FirstASP\obj\Debug\netcoreapp2.2\FirstASP.dll
 C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\asp\FirstASP\obj\Debug\netcoreapp2.2\FirstASP.pdb
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\asp\FirstASP\bin\Debug\netcoreapp2.2\FirstASP.Views.dll
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\asp\FirstASP\bin\Debug\netcoreapp2.2\FirstASP.Views.pdb
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\asp\FirstASP\obj\Debug\netcoreapp2.2\FirstASP.TagHelpers.input.cache
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\asp\FirstASP\obj\Debug\netcoreapp2.2\FirstASP.TagHelpers.output.cache
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\asp\FirstASP\obj\Debug\netcoreapp2.2\FirstASP.RazorCoreGenerate.cache
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\asp\FirstASP\obj\Debug\netcoreapp2.2\Razor\Views\Portfolio\Contact.g.cshtml.cs
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\asp\FirstASP\obj\Debug\netcoreapp2.2\Razor\Views\Portfolio\Index.g.cshtml.cs
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\asp\FirstASP\obj\Debug\netcoreapp2.2\Razor\Views\Portfolio\Project.g.cshtml.cs
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\asp\FirstASP\obj\Debug\netcoreapp2.2\FirstASP.RazorTargetAssemblyInfo.cs
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\asp\FirstASP\obj\Debug\netcoreapp2.2\FirstASP.Views.pdb
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\asp\FirstASP\obj\Debug\netcoreapp2.2\FirstASP.csproj.CopyComplete
